@@ -8,7 +8,7 @@ The binary search tree is built on the fee/size ratio. And then the tree is trav
 Run 
   ```
   generate_transaction.py
-  '''
+  ```
 to generate new csv file
 # How to run
 1. Install next modules:
