@@ -1,4 +1,6 @@
 # Task 4 : Hitler crawler
+# Time
+~ 7 hr
 # Additional info
 Can be some perfomance issue on low end systems
 # How to run
