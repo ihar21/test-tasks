@@ -1,6 +1,6 @@
 # Task 7 : Pinatas
 # Time
-`1hr
+~1hr
 # How to run 
 Run main.py
     ```
