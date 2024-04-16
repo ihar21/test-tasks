@@ -11,6 +11,9 @@ Can be some perfomance issue on low end systems
    ```
    pip install aiohttp
    ```
+   ```
+   pip install lxml
+   ```
 2. Run main.py
    ```
    python main.py
